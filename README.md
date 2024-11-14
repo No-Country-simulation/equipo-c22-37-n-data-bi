@@ -16,3 +16,4 @@ Data - BI
 - José Carlos Diaz Serrano - Otro | jose.carlos.diaz.serrano.mx@gmail.com | Mexico
 - Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
 - Héctor Chocobar Torrejón - Data Engineer | hector@chocobar.net | Uruguay
+- Sandra Avila - Data Analyst | vesta935@gmail.com | Colombia
