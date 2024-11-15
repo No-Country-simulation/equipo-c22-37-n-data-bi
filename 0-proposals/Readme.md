@@ -16,8 +16,47 @@ Para ello quienes tienen background previo en el área de estudio prondrán obje
 
 15-Nov ,Se realiza busqueda de bases de datos relacionadas a fraudes en el sector salud , pero se encuentra informacion demasiada dispersa y se propone la siguiente propuesta: 
 
-**"Analisis de datos de los Trastornos De Salud Mental"**.
+**""Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución temporal""**.
 
 Fuente: https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder
+
+Este dataset contiene información sobre trastornos de salud mental, con datos específicos como porcentajes de prevalencia para varias afecciones (esquizofrenia, trastorno bipolar, trastornos alimentarios, ansiedad, uso de drogas, depresión, y alcoholismo). Las columnas incluyen:
+
+![Check] Entity: País o región.
+![Check] Code: Código del país.
+- [ ] Year: Año del dato.
+- [ ] Porcentajes por trastorno: Representan la prevalencia en la población.
+
+### Objetivo general:
+
+Evaluar la prevalencia de trastornos mentales en los países de Latinoamérica, identificar patrones regionales y tendencias temporales, y proponer áreas de intervención para abordar los principales problemas de salud mental.
+
+### Objetivos específicos:
+
+Prevalencia regional y comparación por país:
+Determinar los trastornos más prevalentes en Latinoamérica (esquizofrenia, depresión, ansiedad, etc.).
+Comparar las tasas de prevalencia entre países y subregiones (ej., Sudamérica, Centroamérica, Caribe).
+
+### Metodología del análisis:
+
+#### Filtrado del dataset:
+Seleccionar solo los datos correspondientes a los países de Latinoamérica.
+Verificar la completitud de los datos para cada país y trastorno.
+
+#### Análisis exploratorio y visualización:
+Graficar la prevalencia promedio por país y trastorno.
+Identificar los trastornos más comunes en la región.
+
+#### Estudio de tendencias:
+Analizar cambios a lo largo del tiempo por país y subregión.
+Observar si algunos países muestran patrones similares (ej., aumento de depresión durante ciertas crisis económicas o sociales).
+
+#### Modelado predictivo :
+Usar series temporales para predecir la prevalencia futura de los principales trastornos.
+
+#### Visualización y comunicación de resultados En Power BI:
+Crear mapas específicos de Latinoamérica para cada trastorno.
+Desarrollar gráficos comparativos (barras, líneas) para mostrar tendencias y patrones.
+
 
 
