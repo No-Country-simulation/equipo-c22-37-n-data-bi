@@ -13,7 +13,7 @@ Data - BI
 - Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
 - Héctor Chocobar Torrejón - Data Engineer | hector@chocobar.net | Uruguay
 - Sandra Avila - Data Analyst | vesta935@gmail.com | Colombia
-- - Jeison Pinzon - Machine Learning | jeisonzapatap@gmail.com | Colombia
+- Jeison Pinzon - Machine Learning | jeisonzapatap@gmail.com | Colombia
 
 ### Propuestos, no confirmados
 - Paula Lazarte - Data Analyst | paulazarte1997@gmail.com | Argentina
