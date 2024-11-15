@@ -16,16 +16,22 @@ Para ello quienes tienen background previo en el área de estudio prondrán obje
 
 15-Nov ,Se realiza busqueda de bases de datos relacionadas a fraudes en el sector salud , pero se encuentra informacion demasiada dispersa y se propone la siguiente propuesta: 
 
+## Propuesta 1
+
 **""Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución temporal""**.
 
 Fuente: https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder
 
 Este dataset contiene información sobre trastornos de salud mental, con datos específicos como porcentajes de prevalencia para varias afecciones (esquizofrenia, trastorno bipolar, trastornos alimentarios, ansiedad, uso de drogas, depresión, y alcoholismo). Las columnas incluyen:
 
-✅ Entity: País o región.
-✅ Code: Código del país.
-✅ Year: Año del dato.
-✅ Porcentajes por trastorno: Representan la prevalencia en la población.
+✅ País.
+
+✅ Código del país.
+
+✅ Año del dato.
+
+✅ Porcentajes por trastorno.
+
 
 ### Objetivo general:
 
