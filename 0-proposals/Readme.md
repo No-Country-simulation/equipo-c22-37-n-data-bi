@@ -22,41 +22,44 @@ Fuente: https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-m
 
 Este dataset contiene información sobre trastornos de salud mental, con datos específicos como porcentajes de prevalencia para varias afecciones (esquizofrenia, trastorno bipolar, trastornos alimentarios, ansiedad, uso de drogas, depresión, y alcoholismo). Las columnas incluyen:
 
-![Check] Entity: País o región.
-![Check] Code: Código del país.
-- [ ] Year: Año del dato.
-- [ ] Porcentajes por trastorno: Representan la prevalencia en la población.
+✅ Entity: País o región.
+✅ Code: Código del país.
+✅ Year: Año del dato.
+✅ Porcentajes por trastorno: Representan la prevalencia en la población.
 
 ### Objetivo general:
 
-Evaluar la prevalencia de trastornos mentales en los países de Latinoamérica, identificar patrones regionales y tendencias temporales, y proponer áreas de intervención para abordar los principales problemas de salud mental.
+- [ ] Evaluar la prevalencia de trastornos mentales en los países de Latinoamérica, identificar patrones regionales y tendencias temporales, y proponer áreas de intervención para abordar los principales problemas de salud mental.
 
 ### Objetivos específicos:
 
-Prevalencia regional y comparación por país:
-Determinar los trastornos más prevalentes en Latinoamérica (esquizofrenia, depresión, ansiedad, etc.).
-Comparar las tasas de prevalencia entre países y subregiones (ej., Sudamérica, Centroamérica, Caribe).
+- [ ] Determinar los trastornos más prevalentes en Latinoamérica (esquizofrenia, depresión, ansiedad, etc.).
+- [ ] Comparar las tasas de prevalencia entre países y subregiones (America del Norte, Centroamérica, America del Sur).
+- [ ] Identificar países con aumentos o disminuciones significativas en la prevalencia de ciertos trastornos.
+- [ ] Comparar cómo las tasas de consumo de alcohol y drogas podrían correlacionarse con otros trastornos.
+- [ ] Identificar las áreas más vulnerables donde los trastornos mentales presentan tasas críticas.
+- [ ] Proponer estrategias basadas en evidencia para reducir la prevalencia de trastornos en la región.
 
 ### Metodología del análisis:
 
 #### Filtrado del dataset:
-Seleccionar solo los datos correspondientes a los países de Latinoamérica.
-Verificar la completitud de los datos para cada país y trastorno.
+- [ ] Seleccionar solo los datos correspondientes a los países de Latinoamérica.
+- [ ] Verificar la completitud de los datos para cada país y trastorno.
 
 #### Análisis exploratorio y visualización:
-Graficar la prevalencia promedio por país y trastorno.
-Identificar los trastornos más comunes en la región.
+- [ ] Graficar la prevalencia promedio por país y trastorno.
+- [ ] Identificar los trastornos más comunes en la región.
 
 #### Estudio de tendencias:
-Analizar cambios a lo largo del tiempo por país y subregión.
-Observar si algunos países muestran patrones similares (ej., aumento de depresión durante ciertas crisis económicas o sociales).
+- [ ] Analizar cambios a lo largo del tiempo por país y subregión.
+- [ ] Observar si algunos países muestran patrones similares (ej., aumento de depresión durante ciertas crisis económicas o sociales).
 
 #### Modelado predictivo :
-Usar series temporales para predecir la prevalencia futura de los principales trastornos.
+- [ ] Usar series temporales para predecir la prevalencia futura de los principales trastornos.
 
 #### Visualización y comunicación de resultados En Power BI:
-Crear mapas específicos de Latinoamérica para cada trastorno.
-Desarrollar gráficos comparativos (barras, líneas) para mostrar tendencias y patrones.
+- [ ] Crear mapas específicos de Latinoamérica para cada trastorno.
+- [ ] Desarrollar gráficos comparativos (barras, líneas) para mostrar tendencias y patrones.
 
 
 
