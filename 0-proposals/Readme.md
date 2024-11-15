@@ -81,5 +81,45 @@ Este dataset contiene información sobre trastornos de salud mental, con datos e
 
 🔧 Desarrollar gráficos comparativos (barras, líneas,Principio de Pareto ,etc) para mostrar tendencias y patrones.
 
+# Propuesta 2
 
+## **Análisis de fraude sanitario**.
 
+Ayer en la noche encontré una página web publicada en el mes pasado llamada “Healthcare Fraud Analytics Market Size, Opportunities & Forecast” de Verified Market Research, que es una empresa de consultoría e investigación de mercado que se especializa en proporcionar análisis de mercado e informes de investigación detallados. Sus oficinas se encuentran en Emiratos Árabes Unidos, Estados Unidos y la India.
+
+En la página web encontré la siguiente información:
+
+Mercado de análisis de fraude sanitario, por categoría 
+
+Modo de implementación:
+-Local
+-Basado en la nube
+
+Solución:
+-Análisis descriptivo
+-Análisis prescriptivo
+-Análisis predictivo
+
+Usuario final:
+-Pagadores de atención médica
+-Proveedores de atención médica
+-Organización gubernamental 
+
+Solicitud:
+-Detección de fraude en reclamaciones Integridad de pago
+-Detección de fraude en beneficios de farmacia -Identificar la detección de robo 
+
+Región:
+-América del norte
+-Europa
+-Asia-Pacífico
+-Sudamerica
+-Medio Oriente y África
+
+Esta información podría darnos ideas sobre el MVP.
+
+A continuación les comparto dos enlaces, el primero es para descargar el archivo CSV y el segundo para revisar la ejecución de código escrito en Python dentro de Google Colab.
+
+Fuente del archivo CSV: https://www.kaggle.com/datasets/nikitkashyap/hospital-insurance-claim-fraud
+
+Enlace para revisar el código: https://colab.research.google.com/drive/1v2wTbN0rUZL_T8Mn9ekyx89Ou9EUUyOm?usp=sharing
