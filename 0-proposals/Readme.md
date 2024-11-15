@@ -18,7 +18,7 @@ Para ello quienes tienen background previo en el área de estudio prondrán obje
 
 ## Propuesta 1
 
-**""Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución temporal""**.
+**""Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución""**.
 
 Fuente: https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder
 
