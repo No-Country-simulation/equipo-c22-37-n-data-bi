@@ -8,9 +8,7 @@ Data - BI
 
 ## Coequipers:
 - Mariana Villamayor - Data Analyst | mvillamayor099@gmail.com | Argentina
-- Gisell Mateus - Data Analyst | gisellmateus8@gmail.com | Colombia
 - Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
-- Sandra Avila - Data Analyst | vesta935@gmail.com | Colombia
 - Jeison Pinzon - Machine Learning | jeisonzapatap@gmail.com | Colombia
 
 ### Propuestos, no confirmados
