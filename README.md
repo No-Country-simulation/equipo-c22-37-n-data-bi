@@ -1,4 +1,4 @@
-## Nombre del equipo: 
+## Nombre de este equipo: 
 
 C22-37-n-data-bi
 
