@@ -1,22 +1,4 @@
-# Propuestas de Proyectos
-
-En esta etapa se realizaran las propuestas del Proyectos a seleccionar
-
-### Antecedentes
-
-En reunión del 14-Nov, se decidió reducir el dominio al ámbito de **"fraudes en el sector de salud"**.
-
-Para ello quienes tienen background previo en el área de estudio prondrán objetivos de trabajo.
-
-### Check-list
-
-- [ ] Propuestas e objetivos de trabajos
-- [ ] Elección de la propuesta.
-- [ ] Pase a la siguiente etapa de planificación del MVP
-
-15-Nov ,Se realiza busqueda de bases de datos relacionadas a fraudes en el sector salud , pero se encuentra informacion demasiada dispersa y se propone la siguiente propuesta: 
-
-# Propuesta 1
+# Propuesta 1:
 
 ## **Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución**
 
@@ -83,43 +65,3 @@ Este dataset contiene información sobre trastornos de salud mental, con datos e
 
 # Propuesta 2
 
-## **Análisis de fraude sanitario**.
-
-Ayer en la noche encontré una página web publicada en el mes pasado llamada “Healthcare Fraud Analytics Market Size, Opportunities & Forecast” de Verified Market Research, que es una empresa de consultoría e investigación de mercado que se especializa en proporcionar análisis de mercado e informes de investigación detallados. Sus oficinas se encuentran en Emiratos Árabes Unidos, Estados Unidos y la India.
-
-En la página web encontré la siguiente información:
-
-Mercado de análisis de fraude sanitario, por categoría 
-
-Modo de implementación:
--Local
--Basado en la nube
-
-Solución:
--Análisis descriptivo
--Análisis prescriptivo
--Análisis predictivo
-
-Usuario final:
--Pagadores de atención médica
--Proveedores de atención médica
--Organización gubernamental 
-
-Solicitud:
--Detección de fraude en reclamaciones Integridad de pago
--Detección de fraude en beneficios de farmacia -Identificar la detección de robo 
-
-Región:
--América del norte
--Europa
--Asia-Pacífico
--Sudamerica
--Medio Oriente y África
-
-Esta información podría darnos ideas sobre el MVP.
-
-A continuación les comparto dos enlaces, el primero es para descargar el archivo CSV y el segundo para revisar la ejecución de código escrito en Python dentro de Google Colab.
-
-Fuente del archivo CSV: https://www.kaggle.com/datasets/nikitkashyap/hospital-insurance-claim-fraud
-
-Enlace para revisar el código: https://colab.research.google.com/drive/1v2wTbN0rUZL_T8Mn9ekyx89Ou9EUUyOm?usp=sharing
