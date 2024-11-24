@@ -1,6 +1,8 @@
-# Propuesta 1:
+## Conjunto de datos principal a analizar:
 
-## **Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución**
+
+
+## Alternativa al conjunto de datos:
 
 Fuente: https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder
 
@@ -62,6 +64,3 @@ Este dataset contiene información sobre trastornos de salud mental, con datos e
 🔧 Crear mapas específicos de Latinoamérica para cada trastorno.
 
 🔧 Desarrollar gráficos comparativos (barras, líneas,Principio de Pareto ,etc) para mostrar tendencias y patrones.
-
-# Propuesta 2
-
