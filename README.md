@@ -6,6 +6,10 @@ C22-37-n-data-bi
 
 Data - BI
 
+## Nombre del proyecto:
+
+Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución
+
 ## Coequipers:
 - Mariana Villamayor - Data Analyst | mvillamayor099@gmail.com | Argentina
 - Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
