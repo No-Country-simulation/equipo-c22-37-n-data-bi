@@ -2,7 +2,7 @@
 
 Fuente: https://opendata.paho.org/en/core-indicators/download-dataset
 
-El conjunto de datos de la Organización Panamericana de la Salud (PAHO por sus siglas en inglés) fue descargado el día 25 de noviembre de 2024, y su última actualización fue el día 18 de noviembre del presente año. En el archivo original había 27 columnas, sin embargo, se ha decidido generar el archivo llamado "19_indicators-latin_america_data_from_PAHO-Core-Indicators-2024-20241118" con el objetivo de delimitar el análisis de datos a 19 países de la región conocida como Latinoamérica,, a 6 columnas de datos y a 19 indicadores.
+El conjunto de datos de la Organización Panamericana de la Salud (PAHO por sus siglas en inglés) fue descargado el día 25 de noviembre de 2024, y su última actualización fue el día 18 de noviembre del presente año. En el archivo original había 27 columnas, sin embargo, se ha decidido generar el archivo llamado "19_indicators-latin_america_data_from_PAHO-Core-Indicators-2024-20241126" con el objetivo de delimitar el análisis de datos a 19 países de la región conocida como Latinoamérica,, a 7 columnas de datos y a 19 indicadores.
 
 ## Alternativa al conjunto de datos:
 
