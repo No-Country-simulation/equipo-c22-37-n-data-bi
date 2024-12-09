@@ -8,7 +8,7 @@ Data - BI
 
 ## Nombre del proyecto:
 
-"INFOMENTE"
+"INFODATAMIND"
 
 ## Coequipers:
 
