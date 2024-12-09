@@ -8,14 +8,13 @@ Data - BI
 
 ## Nombre del proyecto:
 
-Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución
+"INFOMENTE"
 
 ## Coequipers:
+
 - Mariana Valeria Isabel Villamayor - Data Analyst | mvillamayor099@gmail.com | Argentina
 - Jesus Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
-
-## TL:
-Claudio Marcelo Fabian Castillo
+- Claudio Marcelo Fabian Castillo - Team Leader
 
 ## Conjunto de datos principal a analizar:
 
