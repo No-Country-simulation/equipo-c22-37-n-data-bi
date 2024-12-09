@@ -1,6 +1,6 @@
 ## Nombre de este equipo: 
 
-C22-37-n-data-bi
+C22-37-N-DATA-BI
 
 ## Vertical tecnológica del proyecto: 
 
@@ -11,8 +11,11 @@ Data - BI
 Análisis de la prevalencia de trastornos mentales en Latinoamérica y su evolución
 
 ## Coequipers:
-- Mariana Villamayor - Data Analyst | mvillamayor099@gmail.com | Argentina
-- Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
+- Mariana Valeria Isabel Villamayor - Data Analyst | mvillamayor099@gmail.com | Argentina
+- Jesus Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
+
+## TL:
+Claudio Marcelo Fabian Castillo
 
 ## Conjunto de datos principal a analizar:
 
