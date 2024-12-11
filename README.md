@@ -1,6 +1,6 @@
 ## Nombre de este equipo: 
 
-C22-37-N-DATA-BI
+c22-37-n-data-bi
 
 ## Vertical tecnológica del proyecto: 
 
