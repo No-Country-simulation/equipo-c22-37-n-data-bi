@@ -14,7 +14,10 @@ Data - BI
 
 - Mariana Valeria Isabel Villamayor - Data Analyst | mvillamayor099@gmail.com | Argentina
 - Jesus Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
-- Claudio Marcelo Fabian Castillo - Team Leader
+
+## Team Leader:
+
+- Claudio Marcelo Fabian Castillo 
 
 ## Conjunto de datos principal a analizar:
 
