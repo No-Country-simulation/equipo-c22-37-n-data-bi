@@ -19,7 +19,7 @@ InfoDataMind
 
 - Claudio Marcelo Fabian Castillo 
 
-## Conjunto de datos principal a analizar:
+## Conjunto de datos utilizado:
 
 Fuente: https://opendata.paho.org/en/core-indicators/download-dataset
 
