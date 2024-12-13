@@ -150,3 +150,10 @@ Las secciones del dashboard interactivo son las siguientes:
 * Densidad de médicos/as (10 000 habs)
 * Densidad del personal de enfermería (10 000 habs)
 
+## Enlace para acceder al dashboard interactivo en Tableau Public:
+
+https://public.tableau.com/views/InfoDataMindversin2delMVPdelequipoc22-37-n-data-bi/Menprincipal?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Enlace para acceder a las diapositivas de presentación del dashboard interactivo (InfoDataMind):
+
+https://docs.google.com/presentation/d/1uub_g5YZ7LCXhhRNvJojiGpeuoGCB7vozO9PnUb-NfE/edit?usp=sharing
