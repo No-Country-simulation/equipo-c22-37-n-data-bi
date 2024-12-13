@@ -157,3 +157,7 @@ https://public.tableau.com/views/InfoDataMindversin2delMVPdelequipoc22-37-n-data
 ## Enlace para acceder a las diapositivas de presentación del dashboard interactivo (InfoDataMind):
 
 https://docs.google.com/presentation/d/1uub_g5YZ7LCXhhRNvJojiGpeuoGCB7vozO9PnUb-NfE/edit?usp=sharing
+
+## El siguiente enlace contiene información en inglés sobre los indicadores que se encuentran en el conjunto de datos:
+
+https://opendata.paho.org/en/core-indicators/technical-specifications
